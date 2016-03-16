@@ -1,0 +1,1 @@
+Entwurf, Planung und implementierung eines Dokumenten Managementsystem für die Fachschaften Technik und Wirtschaft der Fachhoschule Lübeck
